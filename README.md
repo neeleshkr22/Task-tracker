@@ -60,7 +60,7 @@ The **Personal Task Tracker** allows you to manage your to-do tasks efficiently.
 
 ## 🔗 Live Demo
 
-[🔗 Click here to view live](https://your-deployed-link.vercel.app)
+[🔗 Click here to view live](https://task-tracker-xi-gilt.vercel.app/)
 
 ---
 
