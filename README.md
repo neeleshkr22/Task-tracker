@@ -67,7 +67,7 @@ The **Personal Task Tracker** allows you to manage your to-do tasks efficiently.
 ## 🖼️ Screenshots
 
 ### 🧩 Dashboard View
-![Dashboard](public/dashboard.png)
+![Dashboard](public/Dashboard.png)
 
 ### Login
 ![Login](public/login.png)
